@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": false,
+    "python.linting.mypyEnabled": true,
+    "python.pythonPath": "/usr/local/bin/python3"
+}
