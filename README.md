@@ -7,3 +7,4 @@ https://care.srmist.edu.in/vdpstudentskill2020/login
 ## ![Elab Image](https://i.ibb.co/z46PxBm/Screenshot-30.png)
   
 ## Maintained by Vicious And Delicious. All rights reserved.
+## [![Visits](https://badges.pufler.dev/visits/ViciousAndDelicious/ELab?logo=GitHub&label=github%20visits&color=blue&logoColor=white&style=flat-square)](https://github.com/ViciousAndDelicious)
