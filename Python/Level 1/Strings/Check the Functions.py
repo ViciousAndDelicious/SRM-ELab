@@ -1,0 +1,6 @@
+a = input()
+print(a.isalpha())
+print(a.isdigit())
+print(a.istitle())
+print(a.isupper())
+print(a.islower())
