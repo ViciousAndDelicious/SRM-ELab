@@ -1,0 +1,12 @@
+fn=input()
+n=int(input())
+file=open(fn,"w+")
+for i in range (0,n):
+  s=input()
+  file.write(s)
+  file.write('\n\n')
+file.close()
+fn=input()
+file=open(fn,"r")
+text=file.read()
+print(text.title())
