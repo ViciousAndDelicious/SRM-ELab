@@ -1,0 +1,1 @@
+print('minus1\n0')
